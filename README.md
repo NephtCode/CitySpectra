@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to CityGuide, a dynamic web application built as a mini assignment for the Applications and Web Technologies course at the Pontificia Universidad Catolica de Chile. The project primarily utilizes HTML and CSS technologies, enhanced with JavaScript functionalities, provided by JSDOM, to enrich the user experience. The theme of the application is city-centric, geared to provide engaging and informational content about the world's most famous cities to tourists planning their future travel.
+Welcome to CitySpectra, a dynamic web application built as a mini assignment for the Applications and Web Technologies course at the Pontificia Universidad Catolica de Chile. The project primarily utilizes HTML and CSS technologies, enhanced with JavaScript functionalities, provided by JSDOM, to enrich the user experience. The theme of the application is city-centric, geared to provide engaging and informational content about the world's most famous cities to tourists planning their future travel.
 
 ## Design Philosophy
 
@@ -18,4 +18,4 @@ The JavaScript functionality of the buttons is driven by a script located in `sc
 
 The application leverages the power of Flexbox to display the city cards on the main page, enabling a flexible and responsive layout that adjusts to the user's screen size and device.
 
-We invite you to explore CityGuide, where the world's greatest cities are just a click away!
+We invite you to explore CitySpectra, where the world's greatest cities are just a click away!
